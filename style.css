@@ -1,0 +1,11 @@
+#hi {
+    margin-top: 20px;
+    height: 1250px;
+}
+body{
+    background-color: blue;
+}
+body h1{
+    color: yellow;
+    text-align: center;
+}
